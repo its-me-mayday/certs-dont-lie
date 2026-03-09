@@ -1,6 +1,9 @@
 # certs-dont-lie
 > Certs-Dont-Lie is a small hands-on lab that demonstrates how TLS trust actually works under the hood.
-![Don't lie to me](https://media.giphy.com/media/j4lJOuwvAzyRcnWrFi/giphy.gif)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j4lJOuwvAzyRcnWrFi/giphy.gif" width="400">
+</p>
 
 ## Goal
 The goal of the project is simple: remove the mystery around TLS and Public Key Infrastructure (PKI) by building the trust chain step by step.
