@@ -1,4 +1,5 @@
-# Play with certificates
+# certs-dont-lie
+> Certs-Dont-Lie is a small hands-on lab that demonstrates how TLS trust actually works under the hood.
 
 ## Steps
 - Step 1: Generated a 2048-bit RSA private key
